@@ -1,0 +1,42 @@
+section{
+    padding: 3% 0 0 0;
+}
+
+section h3{
+    color: #56AE63;
+    font-size: 1.5rem;
+}
+
+section h2{
+    font-weight: bolder;
+    padding: 1% 16% 3% 16%;
+    font-size: 2.5rem;
+}
+
+section article{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: left;
+    grid-gap: 25px;
+    padding: 0 0% 0 12%;
+}
+
+section article div{
+    width: 80%;
+}
+
+section article div img{
+    margin-right: 20px;
+    margin-left: -50px;
+    margin-bottom: -10px;
+}
+
+section article div p{
+    line-height: 3.5vh;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+section article h4{
+    font-size: 1.5rem;
+}
